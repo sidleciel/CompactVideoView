@@ -1,0 +1,1 @@
+exoplayer.aar is google ExoPlayer archive. I create the CompactVideoView because exoplayer is need API16 and higher. and videoview is supported from api1. so combine the exoplayer and videoview, in higher api exoplayer can supply best video play experemental, and videoview can compatible the lower api at the same time.
